@@ -1,0 +1,22 @@
+.toggle-btn {
+    background-color: rgb(83, 83, 83);
+    margin: 20px 20px;
+    border-radius: 15px;
+    padding: 12px;
+    color: #fff;
+    margin-bottom: 40px;
+}
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+    outline: none;
+}
+.app {
+    background: url('got.jpeg') center center no-repeat;
+    background-size: cover;
+    height: 1000px;	
+}
+.app h1{
+    color: aliceblue;
+}
